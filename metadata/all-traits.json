@@ -1,0 +1,1002 @@
+[
+    {
+        "Background": "Pink",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Blu",
+        "Mouth": "Angry",
+        "Nose": "Nose",
+        "Occhi": "Wow",
+        "Shirt": "Running",
+        "tokenId": 0
+    },
+    {
+        "Background": "White",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Pink",
+        "Mouth": "Joint",
+        "Nose": "Nose",
+        "Occhi": "Cute",
+        "Shirt": "Running",
+        "tokenId": 1
+    },
+    {
+        "Background": "Blue",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Black",
+        "Mouth": "Mmmmh",
+        "Nose": "Nose",
+        "Occhi": "Fattanza",
+        "Shirt": "White",
+        "tokenId": 2
+    },
+    {
+        "Background": "White",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Blu",
+        "Mouth": "Mmmmh",
+        "Nose": "Nose",
+        "Occhi": "Cute",
+        "Shirt": "White",
+        "tokenId": 3
+    },
+    {
+        "Background": "White",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Green",
+        "Mouth": "Ics",
+        "Nose": "Nose",
+        "Occhi": "Hungry",
+        "Shirt": "Running",
+        "tokenId": 4
+    },
+    {
+        "Background": "Lime",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Blu",
+        "Mouth": "Mmmmh",
+        "Nose": "Nose",
+        "Occhi": "Wow",
+        "Shirt": "White",
+        "tokenId": 5
+    },
+    {
+        "Background": "Pink",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Blu",
+        "Mouth": "Ics",
+        "Nose": "Nose",
+        "Occhi": "Ohh",
+        "Shirt": "Running",
+        "tokenId": 6
+    },
+    {
+        "Background": "White",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Pink",
+        "Mouth": "What",
+        "Nose": "Nose",
+        "Occhi": "Hungry",
+        "Shirt": "Running",
+        "tokenId": 7
+    },
+    {
+        "Background": "White",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Blu",
+        "Mouth": "Ics",
+        "Nose": "Nose",
+        "Occhi": "Happy",
+        "Shirt": "White",
+        "tokenId": 8
+    },
+    {
+        "Background": "White",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Pink",
+        "Mouth": "Smile",
+        "Nose": "Nose",
+        "Occhi": "Wow",
+        "Shirt": "White",
+        "tokenId": 9
+    },
+    {
+        "Background": "Green",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Black",
+        "Mouth": "What",
+        "Nose": "Nose",
+        "Occhi": "Cute",
+        "Shirt": "White",
+        "tokenId": 10
+    },
+    {
+        "Background": "White",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Blu",
+        "Mouth": "Happy",
+        "Nose": "Nose",
+        "Occhi": "Wow",
+        "Shirt": "Running",
+        "tokenId": 11
+    },
+    {
+        "Background": "White",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Black",
+        "Mouth": "Farched",
+        "Nose": "Nose",
+        "Occhi": "Wow",
+        "Shirt": "White",
+        "tokenId": 12
+    },
+    {
+        "Background": "White",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Pink",
+        "Mouth": "Farched",
+        "Nose": "Nose",
+        "Occhi": "Wow",
+        "Shirt": "Running",
+        "tokenId": 13
+    },
+    {
+        "Background": "White",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Black",
+        "Mouth": "Happy",
+        "Nose": "Nose",
+        "Occhi": "Wow",
+        "Shirt": "Running",
+        "tokenId": 14
+    },
+    {
+        "Background": "Blue",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Air_Pods",
+        "Mouth": "3",
+        "Nose": "Nose",
+        "Occhi": "Hungry",
+        "Shirt": "Running",
+        "tokenId": 15
+    },
+    {
+        "Background": "Green",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Green",
+        "Mouth": "Mmmmh",
+        "Nose": "Nose",
+        "Occhi": "Happy",
+        "Shirt": "White",
+        "tokenId": 16
+    },
+    {
+        "Background": "Lime",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Green",
+        "Mouth": "Happy",
+        "Nose": "Nose",
+        "Occhi": "Wow",
+        "Shirt": "White",
+        "tokenId": 17
+    },
+    {
+        "Background": "White",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Pink",
+        "Mouth": "Happy",
+        "Nose": "Nose",
+        "Occhi": "Happy",
+        "Shirt": "White",
+        "tokenId": 18
+    },
+    {
+        "Background": "White",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Black",
+        "Mouth": "Joint",
+        "Nose": "Nose",
+        "Occhi": "Happy",
+        "Shirt": "Running",
+        "tokenId": 19
+    },
+    {
+        "Background": "Lime",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Green",
+        "Mouth": "Gotcha",
+        "Nose": "Nose",
+        "Occhi": "Love",
+        "Shirt": "Running",
+        "tokenId": 20
+    },
+    {
+        "Background": "Blue",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Blu",
+        "Mouth": "What",
+        "Nose": "Nose",
+        "Occhi": "Wow",
+        "Shirt": "Running",
+        "tokenId": 21
+    },
+    {
+        "Background": "White",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Pink",
+        "Mouth": "What",
+        "Nose": "Nose",
+        "Occhi": "Cute",
+        "Shirt": "Running",
+        "tokenId": 22
+    },
+    {
+        "Background": "Blue",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Black",
+        "Mouth": "Smile",
+        "Nose": "Nose",
+        "Occhi": "Ohh",
+        "Shirt": "Running",
+        "tokenId": 23
+    },
+    {
+        "Background": "Orange",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Air_Pods",
+        "Mouth": "Smile",
+        "Nose": "Nose",
+        "Occhi": "Cute",
+        "Shirt": "White",
+        "tokenId": 24
+    },
+    {
+        "Background": "Light_Blue",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Pink",
+        "Mouth": "Ooo",
+        "Nose": "Nose",
+        "Occhi": "Hungry",
+        "Shirt": "White",
+        "tokenId": 25
+    },
+    {
+        "Background": "Orange",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Air_Pods",
+        "Mouth": "Smile",
+        "Nose": "Nose",
+        "Occhi": "Wow",
+        "Shirt": "Running",
+        "tokenId": 26
+    },
+    {
+        "Background": "Orange",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Green",
+        "Mouth": "Cigar",
+        "Nose": "Nose",
+        "Occhi": "Wow",
+        "Shirt": "White",
+        "tokenId": 27
+    },
+    {
+        "Background": "Light_Blue",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Green",
+        "Mouth": "Joint",
+        "Nose": "Nose",
+        "Occhi": "Wow",
+        "Shirt": "White",
+        "tokenId": 28
+    },
+    {
+        "Background": "Lime",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Green",
+        "Mouth": "What",
+        "Nose": "Nose",
+        "Occhi": "Hungry",
+        "Shirt": "Running",
+        "tokenId": 29
+    },
+    {
+        "Background": "Pink",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Air_Pods",
+        "Mouth": "3",
+        "Nose": "Nose",
+        "Occhi": "Happy",
+        "Shirt": "White",
+        "tokenId": 30
+    },
+    {
+        "Background": "Orange",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Air_Pods",
+        "Mouth": "Mmmmh",
+        "Nose": "Nose",
+        "Occhi": "Wow",
+        "Shirt": "White",
+        "tokenId": 31
+    },
+    {
+        "Background": "Orange",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Air_Pods",
+        "Mouth": "Joint",
+        "Nose": "Nose",
+        "Occhi": "Wow",
+        "Shirt": "White",
+        "tokenId": 32
+    },
+    {
+        "Background": "White",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Green",
+        "Mouth": "Smile",
+        "Nose": "Nose",
+        "Occhi": "Wow",
+        "Shirt": "White",
+        "tokenId": 33
+    },
+    {
+        "Background": "Orange",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Green",
+        "Mouth": "Ics",
+        "Nose": "Nose",
+        "Occhi": "Wow",
+        "Shirt": "Running",
+        "tokenId": 34
+    },
+    {
+        "Background": "White",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Black",
+        "Mouth": "What",
+        "Nose": "Nose",
+        "Occhi": "Hungry",
+        "Shirt": "Running",
+        "tokenId": 35
+    },
+    {
+        "Background": "Pink",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Air_Pods",
+        "Mouth": "Ooo",
+        "Nose": "Nose",
+        "Occhi": "Happy",
+        "Shirt": "Running",
+        "tokenId": 36
+    },
+    {
+        "Background": "White",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Air_Pods",
+        "Mouth": "Joint",
+        "Nose": "Nose",
+        "Occhi": "Happy",
+        "Shirt": "White",
+        "tokenId": 37
+    },
+    {
+        "Background": "Lime",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Pink",
+        "Mouth": "3",
+        "Nose": "Nose",
+        "Occhi": "Fattanza",
+        "Shirt": "White",
+        "tokenId": 38
+    },
+    {
+        "Background": "Green",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Blu",
+        "Mouth": "Ooo",
+        "Nose": "Nose",
+        "Occhi": "Ohh",
+        "Shirt": "Running",
+        "tokenId": 39
+    },
+    {
+        "Background": "Blue",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Pink",
+        "Mouth": "Ooo",
+        "Nose": "Nose",
+        "Occhi": "Happy",
+        "Shirt": "White",
+        "tokenId": 40
+    },
+    {
+        "Background": "Orange",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Black",
+        "Mouth": "3",
+        "Nose": "Nose",
+        "Occhi": "Ohh",
+        "Shirt": "White",
+        "tokenId": 41
+    },
+    {
+        "Background": "Pink",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Air_Pods",
+        "Mouth": "Crazy_Mouth",
+        "Nose": "Nose",
+        "Occhi": "Fattanza",
+        "Shirt": "Running",
+        "tokenId": 42
+    },
+    {
+        "Background": "White",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Black",
+        "Mouth": "Ooo",
+        "Nose": "Nose",
+        "Occhi": "Wow",
+        "Shirt": "Running",
+        "tokenId": 43
+    },
+    {
+        "Background": "Pink",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Pink",
+        "Mouth": "Ooo",
+        "Nose": "Nose",
+        "Occhi": "Happy",
+        "Shirt": "White",
+        "tokenId": 44
+    },
+    {
+        "Background": "Green",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Air_Pods",
+        "Mouth": "What",
+        "Nose": "Nose",
+        "Occhi": "Wow",
+        "Shirt": "Running",
+        "tokenId": 45
+    },
+    {
+        "Background": "Green",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Black",
+        "Mouth": "Ooo",
+        "Nose": "Nose",
+        "Occhi": "Hungry",
+        "Shirt": "Running",
+        "tokenId": 46
+    },
+    {
+        "Background": "White",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Blu",
+        "Mouth": "Mmmmh",
+        "Nose": "Nose",
+        "Occhi": "Wow",
+        "Shirt": "Running",
+        "tokenId": 47
+    },
+    {
+        "Background": "Pink",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Green",
+        "Mouth": "Kiss",
+        "Nose": "Nose",
+        "Occhi": "Happy",
+        "Shirt": "Running",
+        "tokenId": 48
+    },
+    {
+        "Background": "Light_Blue",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Air_Pods",
+        "Mouth": "Angry",
+        "Nose": "Nose",
+        "Occhi": "Wow",
+        "Shirt": "Running",
+        "tokenId": 49
+    },
+    {
+        "Background": "White",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Black",
+        "Mouth": "Ooo",
+        "Nose": "Nose",
+        "Occhi": "Happy",
+        "Shirt": "White",
+        "tokenId": 50
+    },
+    {
+        "Background": "White",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Black",
+        "Mouth": "Smile",
+        "Nose": "Nose",
+        "Occhi": "Cute",
+        "Shirt": "White",
+        "tokenId": 51
+    },
+    {
+        "Background": "Lime",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Blu",
+        "Mouth": "Ooo",
+        "Nose": "Nose",
+        "Occhi": "Wow",
+        "Shirt": "White",
+        "tokenId": 52
+    },
+    {
+        "Background": "Green",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Green",
+        "Mouth": "Mmmmh",
+        "Nose": "Nose",
+        "Occhi": "Happy",
+        "Shirt": "Running",
+        "tokenId": 53
+    },
+    {
+        "Background": "Orange",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Blu",
+        "Mouth": "Mmmmh",
+        "Nose": "Nose",
+        "Occhi": "Wow",
+        "Shirt": "White",
+        "tokenId": 54
+    },
+    {
+        "Background": "Orange",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Blu",
+        "Mouth": "What",
+        "Nose": "Nose",
+        "Occhi": "Hungry",
+        "Shirt": "Running",
+        "tokenId": 55
+    },
+    {
+        "Background": "Lime",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Blu",
+        "Mouth": "Gotcha",
+        "Nose": "Nose",
+        "Occhi": "Happy",
+        "Shirt": "Running",
+        "tokenId": 56
+    },
+    {
+        "Background": "Green",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Black",
+        "Mouth": "Kiss",
+        "Nose": "Nose",
+        "Occhi": "Fattanza",
+        "Shirt": "Running",
+        "tokenId": 57
+    },
+    {
+        "Background": "Orange",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Blu",
+        "Mouth": "Cigar",
+        "Nose": "Nose",
+        "Occhi": "Wow",
+        "Shirt": "White",
+        "tokenId": 58
+    },
+    {
+        "Background": "Blue",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Black",
+        "Mouth": "Gotcha",
+        "Nose": "Nose",
+        "Occhi": "Hungry",
+        "Shirt": "White",
+        "tokenId": 59
+    },
+    {
+        "Background": "Green",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Pink",
+        "Mouth": "What",
+        "Nose": "Nose",
+        "Occhi": "Love",
+        "Shirt": "White",
+        "tokenId": 60
+    },
+    {
+        "Background": "Green",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Pink",
+        "Mouth": "Mmmmh",
+        "Nose": "Nose",
+        "Occhi": "Ohh",
+        "Shirt": "Running",
+        "tokenId": 61
+    },
+    {
+        "Background": "Light_Blue",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Blu",
+        "Mouth": "What",
+        "Nose": "Nose",
+        "Occhi": "Happy",
+        "Shirt": "White",
+        "tokenId": 62
+    },
+    {
+        "Background": "White",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Blu",
+        "Mouth": "What",
+        "Nose": "Nose",
+        "Occhi": "Love",
+        "Shirt": "White",
+        "tokenId": 63
+    },
+    {
+        "Background": "Orange",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Black",
+        "Mouth": "Ooo",
+        "Nose": "Nose",
+        "Occhi": "Wow",
+        "Shirt": "Running",
+        "tokenId": 64
+    },
+    {
+        "Background": "Pink",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Green",
+        "Mouth": "Ooo",
+        "Nose": "Nose",
+        "Occhi": "Wow",
+        "Shirt": "Running",
+        "tokenId": 65
+    },
+    {
+        "Background": "White",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Green",
+        "Mouth": "What",
+        "Nose": "Nose",
+        "Occhi": "Fattanza",
+        "Shirt": "Running",
+        "tokenId": 66
+    },
+    {
+        "Background": "Light_Blue",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Black",
+        "Mouth": "Gotcha",
+        "Nose": "Nose",
+        "Occhi": "Wow",
+        "Shirt": "White",
+        "tokenId": 67
+    },
+    {
+        "Background": "Lime",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Black",
+        "Mouth": "Mmmmh",
+        "Nose": "Nose",
+        "Occhi": "Fattanza",
+        "Shirt": "Running",
+        "tokenId": 68
+    },
+    {
+        "Background": "White",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Blu",
+        "Mouth": "What",
+        "Nose": "Nose",
+        "Occhi": "Wow",
+        "Shirt": "White",
+        "tokenId": 69
+    },
+    {
+        "Background": "Lime",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Black",
+        "Mouth": "Angry",
+        "Nose": "Nose",
+        "Occhi": "Wow",
+        "Shirt": "Running",
+        "tokenId": 70
+    },
+    {
+        "Background": "White",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Black",
+        "Mouth": "Gotcha",
+        "Nose": "Nose",
+        "Occhi": "Cute",
+        "Shirt": "Running",
+        "tokenId": 71
+    },
+    {
+        "Background": "Blue",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Pink",
+        "Mouth": "Kiss",
+        "Nose": "Nose",
+        "Occhi": "Wow",
+        "Shirt": "Running",
+        "tokenId": 72
+    },
+    {
+        "Background": "Green",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Black",
+        "Mouth": "Cigar",
+        "Nose": "Nose",
+        "Occhi": "Wow",
+        "Shirt": "White",
+        "tokenId": 73
+    },
+    {
+        "Background": "Orange",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Black",
+        "Mouth": "Ics",
+        "Nose": "Nose",
+        "Occhi": "Wow",
+        "Shirt": "Running",
+        "tokenId": 74
+    },
+    {
+        "Background": "Light_Blue",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Air_Pods",
+        "Mouth": "Smile",
+        "Nose": "Nose",
+        "Occhi": "Love",
+        "Shirt": "White",
+        "tokenId": 75
+    },
+    {
+        "Background": "White",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Black",
+        "Mouth": "Farched",
+        "Nose": "Nose",
+        "Occhi": "Wow",
+        "Shirt": "Running",
+        "tokenId": 76
+    },
+    {
+        "Background": "White",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Black",
+        "Mouth": "Angry",
+        "Nose": "Nose",
+        "Occhi": "Hungry",
+        "Shirt": "White",
+        "tokenId": 77
+    },
+    {
+        "Background": "White",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Air_Pods",
+        "Mouth": "Ooo",
+        "Nose": "Nose",
+        "Occhi": "Wow",
+        "Shirt": "White",
+        "tokenId": 78
+    },
+    {
+        "Background": "Light_Blue",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Blu",
+        "Mouth": "Joint",
+        "Nose": "Nose",
+        "Occhi": "Cute",
+        "Shirt": "Running",
+        "tokenId": 79
+    },
+    {
+        "Background": "White",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Blu",
+        "Mouth": "3",
+        "Nose": "Nose",
+        "Occhi": "Ohh",
+        "Shirt": "White",
+        "tokenId": 80
+    },
+    {
+        "Background": "White",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Air_Pods",
+        "Mouth": "Angry",
+        "Nose": "Nose",
+        "Occhi": "Wow",
+        "Shirt": "Running",
+        "tokenId": 81
+    },
+    {
+        "Background": "White",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Blu",
+        "Mouth": "Angry",
+        "Nose": "Nose",
+        "Occhi": "Happy",
+        "Shirt": "Running",
+        "tokenId": 82
+    },
+    {
+        "Background": "Green",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Green",
+        "Mouth": "Kiss",
+        "Nose": "Nose",
+        "Occhi": "Wow",
+        "Shirt": "Running",
+        "tokenId": 83
+    },
+    {
+        "Background": "White",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Green",
+        "Mouth": "Smile",
+        "Nose": "Nose",
+        "Occhi": "Wow",
+        "Shirt": "Running",
+        "tokenId": 84
+    },
+    {
+        "Background": "Lime",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Green",
+        "Mouth": "3",
+        "Nose": "Nose",
+        "Occhi": "Cute",
+        "Shirt": "White",
+        "tokenId": 85
+    },
+    {
+        "Background": "White",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Air_Pods",
+        "Mouth": "Mmmmh",
+        "Nose": "Nose",
+        "Occhi": "Wow",
+        "Shirt": "White",
+        "tokenId": 86
+    },
+    {
+        "Background": "Orange",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Pink",
+        "Mouth": "Smile",
+        "Nose": "Nose",
+        "Occhi": "Happy",
+        "Shirt": "White",
+        "tokenId": 87
+    },
+    {
+        "Background": "Light_Blue",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Blu",
+        "Mouth": "What",
+        "Nose": "Nose",
+        "Occhi": "Hungry",
+        "Shirt": "Running",
+        "tokenId": 88
+    },
+    {
+        "Background": "White",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Air_Pods",
+        "Mouth": "Kiss",
+        "Nose": "Nose",
+        "Occhi": "Wow",
+        "Shirt": "Running",
+        "tokenId": 89
+    },
+    {
+        "Background": "Orange",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Pink",
+        "Mouth": "What",
+        "Nose": "Nose",
+        "Occhi": "Wow",
+        "Shirt": "White",
+        "tokenId": 90
+    },
+    {
+        "Background": "Green",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Air_Pods",
+        "Mouth": "Gotcha",
+        "Nose": "Nose",
+        "Occhi": "Wow",
+        "Shirt": "White",
+        "tokenId": 91
+    },
+    {
+        "Background": "White",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Black",
+        "Mouth": "Smile",
+        "Nose": "Nose",
+        "Occhi": "Wow",
+        "Shirt": "Running",
+        "tokenId": 92
+    },
+    {
+        "Background": "Light_Blue",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Black",
+        "Mouth": "Crazy_Mouth",
+        "Nose": "Nose",
+        "Occhi": "Wow",
+        "Shirt": "Running",
+        "tokenId": 93
+    },
+    {
+        "Background": "White",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Green",
+        "Mouth": "Farched",
+        "Nose": "Nose",
+        "Occhi": "Ohh",
+        "Shirt": "White",
+        "tokenId": 94
+    },
+    {
+        "Background": "Lime",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Air_Pods",
+        "Mouth": "3",
+        "Nose": "Nose",
+        "Occhi": "Wow",
+        "Shirt": "White",
+        "tokenId": 95
+    },
+    {
+        "Background": "Blue",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Black",
+        "Mouth": "Angry",
+        "Nose": "Nose",
+        "Occhi": "Cute",
+        "Shirt": "Running",
+        "tokenId": 96
+    },
+    {
+        "Background": "White",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Black",
+        "Mouth": "What",
+        "Nose": "Nose",
+        "Occhi": "Happy",
+        "Shirt": "White",
+        "tokenId": 97
+    },
+    {
+        "Background": "White",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Air_Pods",
+        "Mouth": "Gotcha",
+        "Nose": "Nose",
+        "Occhi": "Wow",
+        "Shirt": "White",
+        "tokenId": 98
+    },
+    {
+        "Background": "Orange",
+        "Body": "Green_Sloth_Skin",
+        "Hats": "Bucked_Hat_Blu",
+        "Mouth": "Gotcha",
+        "Nose": "Nose",
+        "Occhi": "Cute",
+        "Shirt": "White",
+        "tokenId": 99
+    }
+]
